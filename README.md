@@ -5,18 +5,22 @@ This is a completely dark theme for the [Jupyter Notebook](https://www.jupyter.o
 > Note: Source code coloring is based on the Twilight theme for Textmate. Print preview output for notebooks retains a white background with printable foreground colors.
 
 ## Installing
-To install this theme, copy or symlink this file [`custom.css`](https://github.com/Naereen/Jupyter-Notebook-Atom-Scheme/raw/master/custom.css) into ~/.jupyter/custom/
+To install this theme, copy or symlink this file [`custom.css`](https://github.com/Naereen/Jupyter-Notebook-Atom-Scheme/raw/master/custom.css) into the folder `~/.jupyter/custom/`.
 
 ```bash
 mkdir -p ~/.jupyter/custom/
 cd ~/.jupyter/custom/
 ```
 
+If needed, edit it as you wish:
+
 ```bash
 nano custom.css
 ```
 
 Then, whenever you run jupyter notebook (for Python or [other languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)) it will use this theme.
+
+You can try [with the test notebook](test/test.ipynb).
 
 ## Screenshots
 > Here are a few examples:
