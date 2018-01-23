@@ -1,15 +1,11 @@
-# Jupyter-Notebook - Atom Scheme
+# Jupyter-Notebook - Dark Scheme
 
-This is a completely dark theme for the Jupyter Notebook interface.
+This is a completely dark theme for the [Jupyter Notebook](https://www.jupyter.org/) interface.
 
-Jupyter includes iPython 4 as its default kernel (which, confusingly, supports both Python 2.x and 3.x).
-
-Since the iPython 3 to 4 transition, it has gained better support for other interpreters like R and Ruby. It is possible to upgrade iPython 2 or 3 to Jupyter + iPython 4.
-
-Source code coloring is based on the Twilight theme for Textmate. Print preview output for notebooks retains a white background with printable foreground colors.
+> Note: Source code coloring is based on the Twilight theme for Textmate. Print preview output for notebooks retains a white background with printable foreground colors.
 
 ## Installing
-To install this theme, copy or symlink this file [`custom.css`](custom.css) into ~/.jupyter/custom/
+To install this theme, copy or symlink this file [`custom.css`](https://github.com/Naereen/Jupyter-Notebook-Atom-Scheme/raw/master/custom.css) into ~/.jupyter/custom/
 
 ```bash
 mkdir -p ~/.jupyter/custom/
