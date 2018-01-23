@@ -2,6 +2,8 @@
 
 This is a completely dark theme for the [Jupyter Notebook](https://www.jupyter.org/) interface.
 
+![screenshots/demo1.png](screenshots/demo1.png)
+
 > Note: Source code coloring is based on the Twilight theme for Textmate. Print preview output for notebooks retains a white background with printable foreground colors.
 
 ## Installing
@@ -23,24 +25,29 @@ Then, whenever you run jupyter notebook (for Python or [other languages](https:/
 You can try [with the test notebook](test/test.ipynb).
 
 ## Screenshots
-> Here are a few examples:
+> Here are a few more examples:
 
-
-![screenshots/demo1.png](screenshots/demo1.png)
-
-![screenshots/demo2.png](screenshots/demo2.png)
+Editing Markdown cells works fine:
 
 ![screenshots/demo3.png](screenshots/demo3.png)
 
+The selected cell is dark gray (and not white, that was my reason to fork [this initial project](https://github.com/AlexandreRobicquet/Jupyter-Notebook-Atom-Scheme)):
+
 ![screenshots/demo4.png](screenshots/demo4.png)
+
+The menus have all joined the dark side also:
+
+![screenshots/demo5.png](screenshots/demo5.png)
+
+
+Print preview still has the normal style with white background:
 
 ![screenshots/demo5.png](screenshots/demo5.png)
 
 ## Tips
-Most of the coloring information can be modified after line 300.
+Most of the coloring information can be modified manually. Just try to stay consistent!
 
 > For more information on color code [see this website](http://html-color-codes.info/).
-
 
 ----
 

@@ -430,8 +430,8 @@ span.save_widget span.filename:hover {
     color: #b7b7b7;
 }
 
-.cell .selected {
-    background: #444;
+div.cell.selected {
+    background: #444 !important;
 }
 
 
