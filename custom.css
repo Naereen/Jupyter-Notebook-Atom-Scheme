@@ -1,7 +1,8 @@
 /*
-  Dark theme for Jupyter Notebook/iPython 4
-  Author: Alexandre Robicquet
+  Dark theme for Jupyter Notebook/iPython 5
+  Author: Lilian Besson
   Inspired by and adapted from the following:
+  Jupyter-Notebook - Atom Scheme (https://github.com/AlexandreRobicquet/Jupyter-Notebook-Atom-Scheme)
   Base16 for iPython Notebook (https://github.com/nsonnad/base16-ipython-notebook)
   Base16 Twilight Dark, David Hart (http://hart-dev.com)
   CodeMirror template adapted for IPython Notebook by Nikhil Sonnad (https://github.com/nsonnad/base16-ipython-notebook)
@@ -161,6 +162,10 @@ span.save_widget span.filename:hover {
 }
 .celltoolbar select {
   opacity: 0.5;
+}
+
+.cell.selected {
+  background: #444;
 }
 
 .modal-dialog .modal-content, .popover, .popover .popover-title {
