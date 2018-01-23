@@ -1,4 +1,4 @@
-# Jupyter-Notebook - Dark Scheme
+# :art: :dark_sunglasses: Jupyter-Notebook - Dark Scheme
 
 This is a completely dark theme for the [Jupyter Notebook](https://www.jupyter.org/) interface.
 
@@ -42,7 +42,7 @@ The menus have all joined the dark side also:
 
 Print preview still has the normal style with white background:
 
-![screenshots/demo5.png](screenshots/demo5.png)
+![screenshots/demo6.png](screenshots/demo6.png)
 
 ## Tips
 Most of the coloring information can be modified manually. Just try to stay consistent!
