@@ -82,10 +82,10 @@ body[data-notebook-path] {
     background-color: #222;
 }
 
-body[data-notebook-path] #header,
+/* body[data-notebook-path] #header,
 .terminal-app #header {
     display: none !important;
-}
+} */
 
 .tabbable {
     color: #979797;
@@ -203,9 +203,9 @@ body[data-notebook-path] #header,
 
 /* comment out the following line to unhide the toolbar */
 
-div#maintoolbar {
+/* div#maintoolbar {
     display: none !important;
-}
+} */
 
 
 /*
@@ -232,9 +232,9 @@ body>#header .header-bar {
     background: #444;
 }
 
-#header .navbar-brand {
+/* #header .navbar-brand {
     display: none;
-}
+} */
 
 #header .filename {
     margin-left: 0;
