@@ -20,11 +20,11 @@ $ jt -N -T -f firacode -tf loraserif -nf latosans -fs 95 -tfs 12 -nfs 115 -cellw
 - And uses the other settings from the [grade3 theme](https://github.com/dunovank/jupyter-themes#grade3-syntax) (`-t grade3`).
 
 It looks amazing :art: :sparkles:!
-![screenshots/demo_ft1.png](screenshots/demo_ft1.png)
+![screenshots/demo_jt1.png](screenshots/demo_jt1.png)
 
-![screenshots/demo_ft2.png](screenshots/demo_ft2.png)
+![screenshots/demo_jt2.png](screenshots/demo_jt2.png)
 
-![screenshots/demo_ft3.png](screenshots/demo_ft3.png)
+![screenshots/demo_jt3.png](screenshots/demo_jt3.png)
 
 > Note: You can use [this `custom.css`](custom.css) file and [my `matplotlibrc`](matplotlibrc) file (to save in `~/.matplotlib/`) if you don't want to install [Jupyter-Themes](https://github.com/dunovank/jupyter-themes).
 
