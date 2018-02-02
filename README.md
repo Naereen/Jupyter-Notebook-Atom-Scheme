@@ -1,6 +1,36 @@
 # :art: :dark_sunglasses: Jupyter-Notebook - Dark Scheme
 
-This is a completely dark theme for the [Jupyter Notebook](https://www.jupyter.org/) interface.
+> This ~~is~~ was a completely dark theme for the [Jupyter Notebook](https://www.jupyter.org/) interface.
+
+## Actually... don't use this! Use [Jupyter-Themes](https://github.com/dunovank/jupyter-themes) instead!
+[Jupyter-Themes](https://github.com/dunovank/jupyter-themes) is purely awesome :sparkles:!
+
+Here is the theme I use:
+```bash
+$ jt -N -T -f firacode -tf loraserif -nf latosans -fs 95 -tfs 12 -nfs 115 -cellw 85% -t grade3
+```
+
+- It keeps the Name & Logo visible (`-N`),
+- It keeps the Toolbar visible (`-T`),
+- It uses the awesome [Fira Code](https://github.com/tonsky/FiraCode/) font for monospace font (code etc). Some ligatures are supported in [CodeMirror](https://codemirror.net/) (Jupyter's text editor), but not all,
+- It uses the [Lora Serif](https://www.fontsquirrel.com/fonts/lora) and [Lato Sans](http://www.latofonts.com/lato-free-fonts/) fonts as serif and sans-serif fonts (I like them both),
+- It uses a font-size of 95% (enough on large screen) (`-fs 95`),
+- It uses a text font-size of 12pt and a notebook fontsize of 115% (increase text cells) (`-tfs 12 -nfs 116`),
+- It reduces the cell width to 85% (`-cellw 85%`),
+- And uses the other settings from the [grade3 theme](https://github.com/dunovank/jupyter-themes#grade3-syntax) (`-t grade3`).
+
+It looks amazing :art: :sparkles:!
+![screenshots/demo_ft1.png](screenshots/demo_ft1.png)
+
+![screenshots/demo_ft2.png](screenshots/demo_ft2.png)
+
+![screenshots/demo_ft3.png](screenshots/demo_ft3.png)
+
+> Note: You can use [this `custom.css`](custom.css) file and [my `matplotlibrc`](matplotlibrc) file (to save in `~/.matplotlib/`) if you don't want to install [Jupyter-Themes](https://github.com/dunovank/jupyter-themes).
+
+----
+
+## Example
 
 ![screenshots/demo1.png](screenshots/demo1.png)
 
