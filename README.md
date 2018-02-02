@@ -20,9 +20,12 @@ $ jt -N -T -f firacode -tf loraserif -nf latosans -fs 95 -tfs 12 -nfs 115 -cellw
 - And uses the other settings from the [grade3 theme](https://github.com/dunovank/jupyter-themes#grade3-syntax) (`-t grade3`).
 
 It looks amazing :art: :sparkles:!
+
 ![screenshots/demo_jt1.png](screenshots/demo_jt1.png)
 
-![screenshots/demo_jt2.png](screenshots/demo_jt2.png)
+Palette command: <img width="50%" alt="screenshots/demo_jt2.png" src="screenshots/demo_jt2.png" />
+
+Code cells:
 
 ![screenshots/demo_jt3.png](screenshots/demo_jt3.png)
 
